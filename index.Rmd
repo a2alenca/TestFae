@@ -1,6 +1,6 @@
 --- 
-title: "Test PEP2"
-author: "Camilo Alarcón Araya"
+title: "Test Prueba programada 2"
+author: "Camilo Alarcón"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
