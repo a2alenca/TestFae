@@ -1,9 +1,9 @@
 --- 
-title: "fFAE"
-author: "sadasddasdsadasdsasadsaddsdaasdasdsadasdasdsdaasdE"
+title: "Test PEP2"
+author: "Camilo Alarcón Araya"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
-# saddsaasdasdasdasdasdasdasdasdasd
+# Creación primera pagina web libro electornico
 
