@@ -1,9 +1,8 @@
 --- 
-title: "Test Prueba programada 2"
+title: "PEP 2"
 author: "Camilo Alarcón"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
-# Creación primera pagina web libro electornico
-
+# libro Electronico
