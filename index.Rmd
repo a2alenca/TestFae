@@ -1,11 +1,8 @@
 --- 
 title: "PEP 2"
-author: "Camilo Alarcón"
+author: "Camilo Alarcón A."
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
 # libro Electronico 
-# FAE
-# USACH
-
